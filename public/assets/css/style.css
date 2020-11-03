@@ -1,7 +1,12 @@
+body {
+  background-color: orange;
+}
+
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: rgb(255, 0, 0);
 }
 
 .label {
@@ -16,4 +21,15 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.jumbotron {
+  background-image: url('images/burger.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin:20px;
+  }
+.bio {
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-size: larger;
 }
