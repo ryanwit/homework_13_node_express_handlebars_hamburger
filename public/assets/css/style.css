@@ -2,34 +2,18 @@ body {
   background-color: orange;
 }
 
-
 li {
   padding: 5px;
   margin: 5px;
   background: rgb(255, 0, 0);
 }
 
-.label {
-  font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
-.form-group {
-  margin-bottom: 5px;
-}
-
 .jumbotron {
-  background-image: url('images/burger.jpg');
+  background-image: url('../images/rsz_burger.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   margin:20px;
+  color: white;
+  
+
   }
-.bio {
-  font-family: 'Baloo Tammudu 2', cursive;
-  font-size: larger;
-}
