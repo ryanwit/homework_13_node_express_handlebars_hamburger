@@ -31,11 +31,12 @@ Ryan Witherspoon
 ![image info](./public/assets/images/homework_13_screengrab.png)
 
 ## Links
-[link to GitHub!](https://github.com/ryanwit/homework_13_node_express_handlebars_hamburger)
+[Link to GitHub!](https://github.com/ryanwit/homework_13_node_express_handlebars_hamburger)
 
-[link to Heroku!](https://github.com/ryanwit/homework_10_team_profile_generator)
+[Link to Heroku!](https://mighty-brushlands-34914.herokuapp.com/)
 
-[link to Screencastify Demo!](https://drive.google.com/file/d/1rrUyZWQYi47d-9Ed4cdVNochJUtbFbze/view)
+[Link to Updated Portfolio!](https://mighty-brushlands-34914.herokuapp.com/)
+
 
 
 # License
